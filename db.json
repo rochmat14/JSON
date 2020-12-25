@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Ridwan ka",
+      "stock": "31",
+      "sku": "a901",
+      "id": 2
+    },
+    {
+      "name": "test2",
+      "stock": "31",
+      "sku": "dfa",
+      "id": 3
+    },
+    {
+      "name": "Ridwan",
+      "stock": "30",
+      "sku": "akdkj",
+      "id": 4
+    }
+  ]
+}
